@@ -16,4 +16,4 @@ Javascript language
 
 # Useful Websites
 
-* [Youtube]([youtube.com](https://www.youtube.com/)https://www.youtube.com/)
+* [Youtube](https://www.youtube.com/)
